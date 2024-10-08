@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="第 1 页" id="8LmBcNI--tKPu7FltJg5">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-1" value="HTML&lt;div&gt;&lt;br&gt;页面结构&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-2" value="CSS&lt;div&gt;&lt;br&gt;&lt;div&gt;显示效果&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-3" value="JavaScript&lt;div&gt;&lt;br&gt;&lt;div&gt;行为、数据交换&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QBGPzDU7OmqLAZBRUC4-5" target="7QBGPzDU7OmqLAZBRUC4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-5" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7QBGPzDU7OmqLAZBRUC4-5" target="7QBGPzDU7OmqLAZBRUC4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="210" as="sourcePoint" />
+            <mxPoint x="160" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7QBGPzDU7OmqLAZBRUC4-5" target="7QBGPzDU7OmqLAZBRUC4-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-14" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7QBGPzDU7OmqLAZBRUC4-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="340" as="sourcePoint" />
+            <mxPoint x="330" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-16" value="Flask框架" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7QBGPzDU7OmqLAZBRUC4-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7QBGPzDU7OmqLAZBRUC4-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="390" as="sourcePoint" />
+            <mxPoint x="380" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
