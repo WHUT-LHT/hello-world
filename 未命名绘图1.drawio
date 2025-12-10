@@ -8082,7 +8082,7 @@
         <mxCell id="uRfHnFwahLNFFs-3svsq-4" edge="1" parent="1" source="uRfHnFwahLNFFs-3svsq-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="uRfHnFwahLNFFs-3svsq-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uRfHnFwahLNFFs-3svsq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PL&lt;/span&gt;" vertex="1">
+        <mxCell id="uRfHnFwahLNFFs-3svsq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PL" vertex="1">
           <mxGeometry height="280" width="120" x="318" y="448" as="geometry" />
         </mxCell>
         <mxCell id="uRfHnFwahLNFFs-3svsq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UART" vertex="1">
